@@ -1,0 +1,18 @@
+.main{
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    margin:100px auto ;
+    
+
+}
+h1{
+    font-size: 25px;
+    background-color: cadetblue;
+    color: white;
+    margin:0px;
+}
+p{
+    font-size: 20px;
+ 
+}
